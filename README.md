@@ -1,2 +1,2 @@
 # SOC
-## [Incident Handling Process] (/IncidentHandling/index.md)
+## [Incident Handling Process](/IncidentHandling/index.md)
